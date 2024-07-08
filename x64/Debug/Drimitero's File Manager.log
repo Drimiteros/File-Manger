@@ -1,0 +1,58 @@
+﻿  FilePath.cpp
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(50,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(50,20): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(96,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(97,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(98,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(99,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(107,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(110,143): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(111,164): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(111,145): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(120,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(123,143): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(124,164): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(124,145): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(133,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(136,143): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(137,164): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(137,145): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(146,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(149,143): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(150,164): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(150,145): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(213,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\C++ Saves\Projects\Drimitero's File Manager\Drimitero's File Manager\FilePath.cpp(214,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Drimitero's File Manager.vcxproj -> F:\C++ Saves\Projects\Drimitero's File Manager\x64\Debug\Drimitero's File Manager.exe
